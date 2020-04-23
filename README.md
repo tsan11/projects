@@ -18,7 +18,7 @@ Edit Course Status Page:
 Add New Student Page:
 <img width="839" alt="Screen Shot 2020-04-22 at 8 11 02 PM" src="https://user-images.githubusercontent.com/23001356/80054962-68d65980-84d5-11ea-931e-5eec4a32f76f.png">
 
-Add New Student Administrator
+Add New Administrator
 <img width="839" alt="Screen Shot 2020-04-22 at 8 11 46 PM" src="https://user-images.githubusercontent.com/23001356/80055021-899eaf00-84d5-11ea-8e1e-6889d28af28f.png">
 
 <img width="837" alt="Screen Shot 2020-04-22 at 7 59 59 PM" src="https://user-images.githubusercontent.com/23001356/80054372-e731fc00-84d3-11ea-83ed-2a69dfb43cd8.png">
