@@ -1,7 +1,8 @@
 # projects
 Developed a web based application where upon login credentials are validated, a user can store, access, view, and edit a students courses data from a database server.
-- Languages: HTML, PHP, JavaScript, MySQL
-- End User: Advisors (School Faculty)
+- Languages used: HTML, PHP, JavaScript
+- Technologies used: MySQL, phpMyAdmin, Apache, Brackets
+- End Uses of Application: Advisors (School Faculty)
  
 Login Page:
 <img width="838" alt="Screen Shot 2020-04-22 at 8 06 42 PM" src="https://user-images.githubusercontent.com/23001356/80054691-d59d2400-84d4-11ea-87ec-4fce4663ef59.png">
