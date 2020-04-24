@@ -1,5 +1,5 @@
 # projects
-Developed a web based application where upon login credentials are validated, a user can store, access, view, and edit a students courses data from a database server.
+Developed a web based application where upon login credentials are validated, a user can store, access, view, and edit a students courses data from a database server. Other functionalities that the application provides is adding a new student and adding a new administrator. 
 - Languages used: HTML, PHP, JavaScript
 - Technologies used: MySQL, phpMyAdmin, Apache, Brackets
 - End Uses of Application: Advisors (School Faculty)
